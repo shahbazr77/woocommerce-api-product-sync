@@ -1,0 +1,5 @@
+errorCode: woocommerce_product_image_upload_error
+message: Error getting remote image http://localhost/wp-vendor/wp-content/uploads/2023/11/Dropshiper2-product1-18.png. Error: A valid URL was not provided.
+API Call: updateProduct
+Date: 2023-11-14 06:19:05
+
